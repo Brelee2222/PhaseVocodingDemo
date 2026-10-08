@@ -3,4 +3,5 @@ No extensive documentation is planned for the code
 Run the code through PVDemo.mlx
 
 When you run the Pitch-Shifting Code section be sure to press 'refresh' in Graph Controls.
-Doing so will render the graphs as individual frames.
+Doing so will render the graphs as individual frames rather than a sphaghetti of plots. 
+I tried hiding the graphs with horrendously overlapping plots, but matlab kept doing some funky stuff. 
