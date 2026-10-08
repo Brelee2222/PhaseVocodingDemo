@@ -2,4 +2,5 @@ No extensive documentation is planned for the code
 
 Run the code through PVDemo.mlx
 
-The last section is used to view the plots for individual frames.
+When you run the Pitch-Shifting Code section be sure to press 'refresh' in Graph Controls.
+Doing so will render the graphs as individual frames.
