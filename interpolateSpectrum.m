@@ -1,6 +1,6 @@
+%% No extensive documentation is planned for the code
 function interpolatedSpectrum = interpolateSpectrum(polarSpectrum, N, M)
-%INTERPOLATESPECTRUM Summary of this function goes here
-%   Detailed explanation goes here
+
 arguments (Input)
     polarSpectrum (:, 2) double
     N (1, 1) double

@@ -1,3 +1,4 @@
+%% No extensive documentation is planned for the code
 % Finds peak indices contained in both ORDERED lists.
 function mutualPeaks = findMutualPeaks(peaks1, peaks2)
 

@@ -1,3 +1,4 @@
+%% No extensive documentation is planned for the code
 % Convert a spectrum from complex numbers to a pairs of polar coodinates, with the first one being amplitude, and the second being phase
 function polarSpectrum = convertToPolar(complexSpec)
 

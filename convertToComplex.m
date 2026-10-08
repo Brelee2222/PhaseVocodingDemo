@@ -1,6 +1,5 @@
+%% No extensive documentation is planned for the code
 function complexSpec = convertToComplex(polarSpec)
-%CONVERTTOCOMPLEX Summary of this function goes here
-%   Detailed explanation goes here
 arguments (Input)
     polarSpec (:, 2) double
 end

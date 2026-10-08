@@ -1,6 +1,5 @@
+%% No extensive documentation is planned for the code
 function selectFrameData(frameNumber, plots)
-%SELECTFRAMEDATA Summary of this function goes here
-%   Detailed explanation goes here
 arguments (Input)
     frameNumber (1, 1) double
     plots (:, :)

@@ -1,3 +1,4 @@
+%% No extensive documentation is planned for the code
 % Finds peaks in the amplitude spectrum. Returns an ordered list of peaking bins.
 function peakBins = findPeaks(ampSpec)
 

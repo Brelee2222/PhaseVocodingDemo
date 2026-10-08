@@ -1,6 +1,5 @@
+%% No extensive documentation is planned for the code
 function labelFigure(n, figureTitle, figureXLabel, figureYLabel)
-%LABELGRAPH Summary of this function goes here
-%   Detailed explanation goes here
 arguments (Input)
     n (1, 1) double
     figureTitle (1, 1) string

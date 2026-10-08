@@ -1,6 +1,5 @@
+%% No extensive documentation is planned for the code
 function results = wrap(values, range)
-%WRAP Summary of this function goes here
-%   Detailed explanation goes here
 arguments (Input)
     values (:, 1) double
     range (1, 1) double

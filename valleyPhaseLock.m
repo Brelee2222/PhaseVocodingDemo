@@ -1,6 +1,6 @@
+%% No extensive documentation is planned for the code
 function range = valleyPhaseLock(peakBin, ampSpec)
-%VALLEYPHASELOCK Summary of this function goes here
-%   Detailed explanation goes here
+
 arguments (Input)
     peakBin (1, 1) double
     ampSpec (:, 1) double
